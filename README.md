@@ -15,7 +15,7 @@ Probability Distribution Theory and Assignment
 Multi Armed Bandits Theory and Coding task
 
 ## Week 2:
-Model Free Predictiom
+Model Free Prediction
 
 
 
