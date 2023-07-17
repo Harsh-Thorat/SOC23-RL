@@ -17,5 +17,25 @@ Multi Armed Bandits Theory and Coding task
 ## Week 2:
 Model Free Prediction
 
+##**Week 3: Theory + assignment**
+Model Free Control
+
+Value function approximation
+OpenAI Gym
+
+Assignment: Taxi Game
+
+##**Week 4:**
+Frozen Lake Environment Tutorial
+
+Neural Network Theory
+
+##**Week 5: Theory**
+Policy Gradient Methods
+
+##**Week 6: Theory**
+Exploration and Exploitation
+
+
 
 
